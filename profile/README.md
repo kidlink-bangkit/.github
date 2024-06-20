@@ -14,13 +14,25 @@ We are Kidlink team!
 | Muhammad Fajar Baihaqi      | A009D4KY4272   | Mobile Development |
 | Hoka Cristian Son           | A012D4KY4243   | Mobile Development |
 
-<!--
+# KidLink 👩‍👧‍👦
 
-**Here are some ideas to get you started:**
+## What is KidLink 🤔
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+KidLink is a friendly app where children can communicate comfortably. KidLink aims to prevent children from experiencing verbal abuse and provide an educational platform for children to communicate in a friendly manner.
+
+## Getting Started 📱
+
+1. Make sure your phone's Android version is above 8.0 (Android Oreo).
+2. Download the .apk file from this repository's release section, or use this [link](https://drive.google.com/file/d/1r74L_QqCmiQop3JyeTDgj4ZMeTFnuwPf/view).
+3. To use features like making orders, you need to give location permission so our app can pin your location and show the orders on the map screen.
+
+# Screenshots
+![1](https://github.com/hokacristian/KidLink1/assets/52247306/2c1b4e8d-19da-427a-805b-ba4fe8fd3c40)
+![2](https://github.com/hokacristian/KidLink1/assets/52247306/8b41777c-b837-4e6a-a42d-e0d3a46fe3b0)
+
+# Message Sensor Feature
+https://github.com/hokacristian/KidLink1/assets/52247306/de788194-df17-4657-967d-766be88f0938
+
+# Short Demo
+https://github.com/hokacristian/KidLink1/assets/52247306/f586ac67-e7b1-431f-83d8-28fdd5c457d8
+
