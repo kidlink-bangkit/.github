@@ -36,3 +36,6 @@ https://github.com/hokacristian/KidLink1/assets/52247306/de788194-df17-4657-967d
 # Short Demo
 https://github.com/hokacristian/KidLink1/assets/52247306/f586ac67-e7b1-431f-83d8-28fdd5c457d8
 
+
+# Architecture
+![Architecture diagram](../assets/kidlink-system.png)
